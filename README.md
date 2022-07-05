@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alpha Emmanuel</h1>
 <h3 align="center">A passionate full stack developer and data analyst from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ealpha072&label=Profile%20views&color=0e75b6&style=flat" alt="ealpha072" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ealpha072" alt="ealpha072" /></a> </p>
-
 - 🔭 I’m currently working on [Hospital Management System](https://github.com/ealpha072/Hospital-Management-System)
 
 - 🌱 I’m currently learning **Web scrapping with python**
