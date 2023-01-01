@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alpha Emmanuel</h1>
 <h3 align="center">A passionate full stack developer and data analyst from Kenya</h3>
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/ealpha072/Hospital-Management-System)
+- 🔭 I’m currently working on [Resume Builder](https://github.com/ealpha072/resume-Builder)
 
-- 🌱 I’m currently learning **Web scrapping with python**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **full stack and data analyst projects**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ealpha072?tab=repositories](https://github.com/ealpha072?tab=repositories)
 
-- 💬 Ask me about **core PHP, XAMPP, phpMyadmin**
+- 💬 Ask me about **core PHP, XAMPP, phpMyadmin, React, MERN Stack**
 
 - 📫 How to reach me **ealpha072@gmail.com**
 
