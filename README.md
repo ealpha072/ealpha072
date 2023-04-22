@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alpha Emmanuel</h1>
 <h3 align="center">A passionate full stack developer and data analyst from Kenya</h3>
 
-- 🔭 I’m currently working on a nextjs app
+- 🔭 I’m currently working on an operating system
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **OS Development**
 
 - 👯 I’m looking to collaborate on **full stack and data analyst projects**
 
