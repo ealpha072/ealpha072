@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ealpha072?tab=repositories](https://github.com/ealpha072?tab=repositories)
 
-- 💬 Ask me about **core PHP, XAMPP, phpMyadmin, React, MERN Stack**
+- 💬 Ask me about **core PHP, XAMPP, phpMyadmin, React, MERN Stack, OS_Development, Assembly Language**
 
 - 📫 How to reach me **ealpha072@gmail.com**
 
