@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpha Emmanuel</h1>
 <h3 align="center">A passionate full stack developer and data analyst from Kenya</h3>
 
-- 🔭 I’m currently working on an operating system
-
-- 🌱 I’m currently learning **OS Development**
-
 - 👯 I’m looking to collaborate on **full stack and data analyst projects**
-
-- 🤝 I’m looking for help with [state persistence after refresh](https://github.com/ealpha072/Todo-Redux)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ealpha072?tab=repositories](https://github.com/ealpha072?tab=repositories)
 
